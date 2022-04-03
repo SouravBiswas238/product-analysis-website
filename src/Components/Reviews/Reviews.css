@@ -1,0 +1,13 @@
+.reviews-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+    margin: 10px;
+}
+
+.see-all-button {
+    width: 200px;
+    padding: 5px;
+    font: 500;
+    font-size: 1.3rem;
+}

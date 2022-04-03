@@ -1,0 +1,19 @@
+.navigation-container {
+    background-color: rgba(55, 242, 242, 0.855);
+    padding: 25px;
+    margin: 10 auto;
+
+}
+
+.navigation-container a {
+    color: black;
+    margin: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navigation-container a:hover {
+    color: whitesmoke;
+
+}

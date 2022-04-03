@@ -1,0 +1,41 @@
+.single-review-cart {
+    /* display: grid; */
+    border: 1px solid rgba(27, 26, 26, 0.108);
+    border-radius: 5px;
+    margin: 10px;
+    height: 300px;
+    background-color: whitesmoke;
+}
+
+.single-cart-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.single-review-cart span {
+    color: #4D77FF;
+}
+
+.single-review-cart small {
+    color: #00000082;
+}
+
+.single-cart-image span:hover {
+    color: #f02828;
+    cursor: pointer;
+}
+
+.single-cart-image img {
+    height: 42px;
+    width: 42px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.single-review-cart p {
+    margin: 10px;
+    margin-top: 0;
+    /* color: blueviolet; */
+}
