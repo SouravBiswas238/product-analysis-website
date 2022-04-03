@@ -1,8 +1,8 @@
 [
   {
     "_id": "624a033ec51c37d59db8472c",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxSIZ7qrm2OLLmop_E8m_e_9MdME45Q9GhACmI4mWFlhzhuYmdzvTc1B631nC1BMLLsc&usqp=CAU",
-    "age": 33,
+    "picture": "https://encrypted-tbn0.gstatic.com/imratings?q=tbn:ANd9GcRdxSIZ7qrm2OLLmop_E8m_e_9MdME45Q9GhACmI4mWFlhzhuYmdzvTc1B631nC1BMLLsc&usqp=CAU",
+    "rating": 3,
     "name": "Kelley Mcconnell",
     "gender": "female",
     "email": "kelleymcconnell@zentia.com",
@@ -11,8 +11,8 @@
   },
   {
     "_id": "624a033e891f736de8b0cb11",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04ZndPl3TMJ4GMG8UeiY8XGh8ifpnPGHTbw&usqp=CAU",
-    "age": 33,
+    "picture": "https://encrypted-tbn0.gstatic.com/imratings?q=tbn:ANd9GcR04ZndPl3TMJ4GMG8UeiY8XGh8ifpnPGHTbw&usqp=CAU",
+    "rating": 3.5,
     "name": "Mosley Hendrix",
     "gender": "male",
     "email": "mosleyhendrix@zentia.com",
@@ -21,8 +21,8 @@
   },
   {
     "_id": "624a033e5be2cb81b5ffcae0",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZCzMFzAZPtDnzHX1Qj-kuHNWHSQ8AbhP1Q&usqp=CAU",
-    "age": 29,
+    "picture": "https://encrypted-tbn0.gstatic.com/imratings?q=tbn:ANd9GcR2ZCzMFzAZPtDnzHX1Qj-kuHNWHSQ8AbhP1Q&usqp=CAU",
+    "rating": 4,
     "name": "James Torres",
     "gender": "female",
     "email": "jamestorres@zentia.com",
@@ -31,8 +31,8 @@
   },
   {
     "_id": "624a033e78f81326df733c94",
-    "picture": "https://m.media-amazon.com/images/M/MV5BMmRmNjMwN2EtZDRkZS00Mjc3LTg1NTctYTMyNjk2MmViMzE5XkEyXkFqcGdeQXVyNzIxODIzOQ@@._V1_.jpg",
-    "age": 31,
+    "picture": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/11/77/27/6/hero_landscape_91e1b039-11ef-4d97-a01e-639b6ee4990a.jpg",
+    "rating": 5,
     "name": "Polly Norton",
     "gender": "female",
     "email": "pollynorton@zentia.com",
@@ -41,8 +41,8 @@
   },
   {
     "_id": "624a033ebf55cca605ad4719",
-    "picture": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "age": 22,
+    "picture": "https://manofmany.com/wp-content/uploads/2021/07/20-Best-Mullet-Hairstyles-For-Men-1200x800.jpeg",
+    "rating": 2.5,
     "name": "Ester Combs",
     "gender": "female",
     "email": "estercombs@zentia.com",
@@ -52,7 +52,7 @@
   {
     "_id": "624a033e6552ccb9db6f4e04",
     "picture": "https://manofmany.com/wp-content/uploads/2019/06/50-Long-Haircuts-Hairstyle-Tips-for-Men-2.jpg",
-    "age": 23,
+    "rating": 3,
     "name": "Baxter Hooper",
     "gender": "male",
     "email": "baxterhooper@zentia.com",

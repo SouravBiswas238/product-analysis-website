@@ -3,7 +3,7 @@
     border: 1px solid rgba(27, 26, 26, 0.108);
     border-radius: 5px;
     margin: 10px;
-    height: 300px;
+    height: 350px;
     background-color: whitesmoke;
 }
 
@@ -20,6 +20,10 @@
 
 .single-review-cart small {
     color: #00000082;
+}
+
+.fa-icon-color {
+    color: yellow;
 }
 
 .single-cart-image span:hover {
