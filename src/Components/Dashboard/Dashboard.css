@@ -1,0 +1,11 @@
+.chart-container {
+    margin: 30px;
+}
+
+.chart-container h2 {
+    padding: 10px;
+    margin: 20px 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(31, 30, 31, 0.482);
+    background-color: whitesmoke;
+}

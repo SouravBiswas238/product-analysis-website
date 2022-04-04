@@ -1,12 +1,12 @@
 .navigation-container {
-    background-color: rgba(55, 242, 242, 0.855);
+    background-color: rgba(20, 50, 185, 0.729);
     padding: 25px;
     margin: 10 auto;
 
 }
 
 .navigation-container a {
-    color: black;
+    color: whitesmoke;
     margin: 10px;
     font-weight: bold;
     text-decoration: none;
@@ -14,6 +14,6 @@
 }
 
 .navigation-container a:hover {
-    color: whitesmoke;
+    color: rgba(213, 207, 207, 0.863);
 
 }
