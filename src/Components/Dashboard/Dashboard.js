@@ -12,11 +12,11 @@ const Dashboard = () => {
     return (
         <div className='chart-container'>
             <div>
-                <h2>Line Chart For revenue And Investment</h2>
+                <h2>INVESTMENT VS REVENUE</h2>
 
                 <LineChart width={900} height={600} data={data}>
 
-                    <Line dataKey={"investment"}></Line>
+                    <Line dataKey={"investment"} stroke="#8884d8" ></Line>
                     <Line dataKey={"revenue"}></Line>
 
                     <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
@@ -33,7 +33,7 @@ const Dashboard = () => {
                     <YAxis />
                     <Tooltip wrapperStyle={{ width: 100, backgroundColor: '#ccc' }} />
 
-                    <Legend width={100} wrapperStyle={{ top: 30, right: 10, backgroundColor: '#f5f5f5', border: '1px solid #d5d5d5', borderRadius: 3, lineHeight: '40px' }} />
+                    <Legend width={100} wrapperStyle={{ top: 470, right: 300, backgroundColor: '#f5f5f5', border: '1px solid #d5d5d5', borderRadius: 3, lineHeight: '40px' }} />
 
 
                     <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
