@@ -11,16 +11,29 @@ const Blogs = () => {
             </div>
             <div>
                 <h1>Semantic Tag</h1>
-                <p>A semantic element clearly describes its meaning to the browswe and the developer.there are some simantic tag that use to difine parts of the webpage:</p>
-                <p>
-                    <b>Semantic Elements:</b>
-                    &#60;form&#62; it define a from in a website
-                    &#60;header&#62;=it clearly show that it is a header of  a website
-                    &#60;table&#62;, and   &#60;article&#62;,  &#60;main&#62;,  &#60;nav&#62;,  &#60;mark&#62;,  &#60;section&#62;,  &#60;time&#62; etc Clearly defines its content.
+                <p>A semantic element clearly describes its meaning to the browser and the developer. Elements such as  &#60;header&#62;,  &#60;footer&#62;, and  &#60;article&#62; are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them
+
                 </p>
+                <b>Some Semantic Elements:</b>
+                <ul>
+                    <li>
+                        &#60;form&#62;
+                    </li>
+                    <li>
+                        &#60;section&#62;
+                    </li>
+                    <li>
+                        &#60;table&#62;
+                    </li>
+                    <li>
+                        &#60;footer&#62;
+                    </li>
+                </ul>
+
+
 
             </div>
-        </div>
+        </div >
     );
 };
 
