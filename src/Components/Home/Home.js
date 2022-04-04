@@ -20,7 +20,7 @@ const Home = () => {
                     <img src="https://www.startech.com.bd/image/cache/catalog/camera/mirriorless/canon/eos-m50-mark-ii/eos-m50-mark-ii-01-500x500.jpg" alt="" />
                 </div>
             </div>
-            <Reviews>
+            <Reviews reviewItem="true">
                 <Link to='/reviews'>
                     <button className='see-all-button'>See all Reviews</button>
                 </Link>

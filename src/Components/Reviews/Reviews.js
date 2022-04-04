@@ -5,18 +5,19 @@ import './Reviews.css'
 
 const Reviews = (props) => {
     const [reviews, setReviews] = useReview();
-    // console.log(review)
+    const reviewItem = props.reviewItem;
 
     return (
         <div>
-            <h1>Customer Review: {reviews.length}</h1>
+            <h1>Customer Review {reviewItem ? '3' : reviews.length}</h1>
             <div className='reviews-container'>
 
                 {
-                    reviews.map(review => <SingleReview
-                        key={review._id}
-                        review={review}
-                    ></SingleReview>)
+                    reviewItem ? reviews.splice(3).map(review => <SingleReview key={review._id}
+                        review={review}></SingleReview>) : reviews.map(review => <SingleReview
+                            key={review._id}
+                            review={review}
+                        ></SingleReview>)
                 }
             </div>
 

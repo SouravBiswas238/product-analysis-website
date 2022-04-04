@@ -1,0 +1,15 @@
+.blog-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.blog-container div {
+    margin: 15px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+.blog-container div p {
+
+    text-align: justify;
+}
